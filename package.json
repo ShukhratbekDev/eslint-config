@@ -1,6 +1,6 @@
 {
   "name": "@shukhratbek/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration used by Shukhratbek",
   "main": "index.js",
   "author": {

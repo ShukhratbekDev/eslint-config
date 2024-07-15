@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ShukhratbekDev/eslint-config/compare/v1.0.0...v1.0.1) (2024-07-15)
+
+
+### Bug Fixes
+
+* make access public ([49e375f](https://github.com/ShukhratbekDev/eslint-config/commit/49e375f859ded28468d054776bc1a4002c3e8e76))
+
 # 1.0.0 (2024-07-15)
 
 
