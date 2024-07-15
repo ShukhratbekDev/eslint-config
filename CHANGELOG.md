@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/ShukhratbekDev/eslint-config/compare/v1.0.3...v1.0.4) (2024-07-15)
+
+
+### Bug Fixes
+
+* revert changes ([b4484e7](https://github.com/ShukhratbekDev/eslint-config/commit/b4484e7542bde87b07e44644478f88ebf5bb9d05))
+
 ## [1.0.1](https://github.com/ShukhratbekDev/eslint-config/compare/v1.0.0...v1.0.1) (2024-07-15)
 
 
