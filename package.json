@@ -37,6 +37,7 @@
     "typescript": "^4 || ^5"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
     "commit-analyzer-fail-on-no-release": "^1.0.1"
   }
 }
