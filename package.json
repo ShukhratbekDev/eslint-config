@@ -35,5 +35,8 @@
   },
   "peerDependencies": {
     "typescript": "^4 || ^5"
+  },
+  "devDependencies": {
+    "commit-analyzer-fail-on-no-release": "^1.0.1"
   }
 }
