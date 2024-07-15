@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "ESLint configuration used by Shukhratbek",
   "main": "index.js",
+  "author": {
+    "email": "shukhratbek.dev@gmail.com",
+    "name": "Shukhratbek"
+  },
   "license": "MIT",
   "scripts": {
     "test": "echo \"No tests\"",

@@ -50,11 +50,11 @@ The following plugins are used in this configuration:
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)
 - [eslint-plugin-lodash](https://github.com/wix-incubator/eslint-plugin-lodash)
 
-Please explore the configuration in [index.js]() to see the full list of rules.
+Please explore the configuration in [index.js](https://github.com/ShukhratbekDev/eslint-config/blob/main/index.js) to see the full list of rules.
 
 # Configurations
 
-## [Node (default)]()
+## [Node (default)](https://github.com/ShukhratbekDev/eslint-config/blob/main/node.js)
 
 You can configure the plugin as follows:
 
@@ -64,7 +64,7 @@ You can configure the plugin as follows:
 }
 ```
 
-## [React]()
+## [React](https://github.com/ShukhratbekDev/eslint-config/blob/main/react.js)
 
 This configuration is used for react:
 
@@ -74,7 +74,7 @@ This configuration is used for react:
 }
 ```
 
-## [Configuration for Import]()
+## [Configuration for Import](https://github.com/ShukhratbekDev/eslint-config/blob/main/import.js)
 
 This configuration is in addition to the previous ones and contains only import rules, which greatly slow down the linting time.
 
