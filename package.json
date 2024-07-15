@@ -42,5 +42,8 @@
     "@semantic-release/npm": "^12.0.1",
     "@semantic-release/release-notes-generator": "^14.0.1",
     "commit-analyzer-fail-on-no-release": "^1.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
